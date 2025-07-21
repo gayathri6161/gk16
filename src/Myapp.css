@@ -33,7 +33,3 @@ transform: translate(-50%);
 border-radius: 50px;
 
 }
-/*Increasing height of table row,for commands like tr,td,h,p,etc we dont need to use classname and .*/
-tr{
-    height: 30px;
-}
